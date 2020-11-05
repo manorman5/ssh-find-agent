@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Copyright (C) 2011 by Wayne Walker <wwalker@solid-constructs.com>
 #
